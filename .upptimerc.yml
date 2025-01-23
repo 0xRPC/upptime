@@ -4,22 +4,39 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Monero Mainnet
+    icon: https://assets.coingecko.com/coins/images/69/standard/monero_logo.png
     url: https://xmr.0xrpc.io/get_height
+
   - name: Ethereum Mainnet
+    icon: https://assets.coingecko.com/coins/images/279/standard/ethereum.png
     url: https://0xrpc.io/eth/health
+
   - name: Ethereum Sepolia Testnet
+    icon: https://assets.coingecko.com/coins/images/279/standard/ethereum.png
     url: https://0xrpc.io/sep/health
+
   - name: BNB Chain Mainnet
+    icon: https://assets.coingecko.com/coins/images/825/standard/bnb-icon2_2x.png
     url: https://0xrpc.io/bnb/health
+
   - name: Polygon Mainnet
+    icon: https://assets.coingecko.com/coins/images/32440/standard/polygon.png
     url: https://0xrpc.io/pol/health
+
   - name: Gnosis Mainnet
+    icon: https://assets.coingecko.com/coins/images/662/standard/logo_square_simple_300px.png
     url: https://0xrpc.io/gno/health
+
   - name: Avalanche Mainnet
+    icon: https://assets.coingecko.com/coins/images/12559/standard/Avalanche_Circle_RedWhite_Trans.png
     url: https://0xrpc.io/avax/health
+
   - name: Optimism L2 Mainnet
+    icon: https://assets.coingecko.com/coins/images/25244/standard/Optimism.png
     url: https://0xrpc.io/op/health
+
   - name: Base L2 Mainnet
+    icon: https://www.base.org/_next/static/media/logo.f6fdedfc.svg
     url: https://0xrpc.io/base/health
 
 status-website:
