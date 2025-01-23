@@ -37,7 +37,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: 0xRPC Node Upptime
-  introTitle: "**0xRPC Node Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "**0xRPC Public Nodes Upptime**"
   introMessage: Status page to track 0xRPC public RPC nodes
   navbar:
     - title: Status
