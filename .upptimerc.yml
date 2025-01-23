@@ -36,7 +36,7 @@ sites:
     url: https://0xrpc.io/op/health
 
   - name: Base L2 Mainnet
-    icon: https://www.base.org/_next/static/media/logo.f6fdedfc.svg
+    icon: https://raw.githubusercontent.com/base-org/brand-kit/refs/heads/main/logo/symbol/Base_Symbol_Blue.png
     url: https://0xrpc.io/base/health
 
 status-website:
