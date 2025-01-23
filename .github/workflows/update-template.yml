@@ -23,7 +23,7 @@ on:
   workflow_dispatch:
 jobs:
   release:
-    name: Build 
+    name: Build
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
