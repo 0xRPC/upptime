@@ -5,28 +5,20 @@ repo: upptime # The name of this repository
 sites:
   - name: Monero Mainnet
     url: https://xmr.0xrpc.io/get_height
-
   - name: Ethereum Mainnet
     url: https://0xrpc.io/eth/health
-
   - name: Ethereum Sepolia Testnet
     url: https://0xrpc.io/sep/health
-
   - name: BNB Chain Mainnet
     url: https://0xrpc.io/bnb/health
-
   - name: Polygon Mainnet
     url: https://0xrpc.io/pol/health
-
   - name: Gnosis Mainnet
     url: https://0xrpc.io/gno/health
-
   - name: Avalanche Mainnet
     url: https://0xrpc.io/avax/health
-
   - name: Optimism L2 Mainnet
     url: https://0xrpc.io/op/health
-
   - name: Base L2 Mainnet
     url: https://0xrpc.io/base/health
 
