@@ -23,7 +23,7 @@ on:
   workflow_dispatch:
 jobs:
   release:
-    name: Generate README
+    name: Generate README 
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
