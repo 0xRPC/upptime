@@ -76,19 +76,19 @@
     "url": "https://0xrpc.io/pol/health",
     "icon": "https://assets.coingecko.com/coins/images/32440/standard/polygon.png",
     "slug": "polygon-mainnet",
-    "status": "down",
-    "uptime": "0.12%",
-    "uptimeDay": "0.12%",
-    "uptimeWeek": "0.12%",
-    "uptimeMonth": "0.12%",
-    "uptimeYear": "0.12%",
-    "time": 213,
-    "timeDay": 213,
-    "timeWeek": 213,
-    "timeMonth": 213,
-    "timeYear": 213,
+    "status": "up",
+    "uptime": "95.65%",
+    "uptimeDay": "95.65%",
+    "uptimeWeek": "95.65%",
+    "uptimeMonth": "95.65%",
+    "uptimeYear": "95.65%",
+    "time": 205,
+    "timeDay": 205,
+    "timeWeek": 205,
+    "timeMonth": 205,
+    "timeYear": 205,
     "dailyMinutesDown": {
-      "2025-01-23": 15
+      "2025-01-23": 17
     }
   },
   {
