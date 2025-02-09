@@ -19,10 +19,6 @@ sites:
     icon: https://assets.coingecko.com/coins/images/825/standard/bnb-icon2_2x.png
     url: https://0xrpc.io/bnb/health
 
-  - name: Polygon Mainnet
-    icon: https://assets.coingecko.com/coins/images/32440/standard/polygon.png
-    url: https://0xrpc.io/pol/health
-
   - name: Gnosis Mainnet
     icon: https://assets.coingecko.com/coins/images/662/standard/logo_square_simple_300px.png
     url: https://0xrpc.io/gno/health
