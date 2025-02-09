@@ -1,7 +1,7 @@
 url: https://0xrpc.io/bnb/health
-status: down
-code: 502
-responseTime: 100
-lastUpdated: 2025-02-09T07:26:00.118Z
+status: up
+code: 200
+responseTime: 173
+lastUpdated: 2025-02-09T08:31:25.613Z
 startTime: 2025-01-23T12:41:06.484Z
 generator: Upptime <https://github.com/upptime/upptime>
