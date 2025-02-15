@@ -35,6 +35,10 @@ sites:
     icon: https://raw.githubusercontent.com/base-org/brand-kit/refs/heads/main/logo/symbol/Base_Symbol_Blue.png
     url: https://0xrpc.io/base/health
 
+  - name: Unichain L2 Mainnet
+    icon: https://www.unichain.org/favicon.ico
+    url: https://0xrpc.io/uni/health
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
