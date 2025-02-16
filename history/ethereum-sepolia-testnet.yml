@@ -1,7 +1,7 @@
 url: https://0xrpc.io/sep/health
-status: up
-code: 200
-responseTime: 1018
-lastUpdated: 2025-02-15T23:24:20.223Z
+status: down
+code: 429
+responseTime: 103
+lastUpdated: 2025-02-16T08:55:35.465Z
 startTime: 2025-01-23T12:41:05.978Z
 generator: Upptime <https://github.com/upptime/upptime>
