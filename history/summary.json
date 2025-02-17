@@ -47,7 +47,7 @@
     "slug": "ethereum-sepolia-testnet",
     "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "97.86%",
+    "uptimeDay": "97.83%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.73%",
@@ -57,7 +57,7 @@
     "timeMonth": 304,
     "timeYear": 304,
     "dailyMinutesDown": {
-      "2025-02-17": 0,
+      "2025-02-17": 1,
       "2025-02-16": 31,
       "2025-02-09": 65
     }
