@@ -31,6 +31,10 @@ sites:
     icon: https://assets.coingecko.com/coins/images/453/standard/ethereum-classic-logo.png
     url: https://0xrpc.io/etc/health
 
+  - name: Mintme.com Mainnet
+    icon: https://assets.coingecko.com/coins/images/5127/standard/MINTME_logo.png
+    url: https://0xrpc.io/mint/health
+
   - name: Optimism L2 Mainnet
     icon: https://assets.coingecko.com/coins/images/25244/standard/Optimism.png
     url: https://0xrpc.io/op/health
