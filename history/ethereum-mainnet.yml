@@ -1,7 +1,7 @@
 url: https://0xrpc.io/eth/health
-status: down
-code: 429
-responseTime: 726
-lastUpdated: 2025-03-19T18:48:57.327Z
+status: up
+code: 200
+responseTime: 1714
+lastUpdated: 2025-03-19T19:04:51.381Z
 startTime: 2025-01-23T12:41:04.648Z
 generator: Upptime <https://github.com/upptime/upptime>
