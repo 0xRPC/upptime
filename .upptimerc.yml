@@ -15,6 +15,10 @@ sites:
     icon: https://assets.coingecko.com/coins/images/279/standard/ethereum.png
     url: https://0xrpc.io/sep/health
 
+  - name: Ethereum Hoodi Testnet
+    icon: https://assets.coingecko.com/coins/images/279/standard/ethereum.png
+    url: https://0xrpc.io/hoodi/health
+
   - name: Gnosis Mainnet
     icon: https://assets.coingecko.com/coins/images/662/standard/logo_square_simple_300px.png
     url: https://0xrpc.io/gno/health
