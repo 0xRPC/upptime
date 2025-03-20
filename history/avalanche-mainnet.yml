@@ -1,7 +1,7 @@
 url: https://0xrpc.io/avax/health
-status: down
-code: 429
-responseTime: 146
-lastUpdated: 2025-03-20T11:35:29.944Z
+status: up
+code: 200
+responseTime: 1016
+lastUpdated: 2025-03-20T11:47:19.558Z
 startTime: 2025-01-23T12:41:10.060Z
 generator: Upptime <https://github.com/upptime/upptime>
