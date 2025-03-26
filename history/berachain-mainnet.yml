@@ -1,7 +1,7 @@
 url: https://0xrpc.io/bera/health
-status: down
-code: 502
-responseTime: 1101
-lastUpdated: 2025-03-25T23:12:17.382Z
+status: up
+code: 200
+responseTime: 123
+lastUpdated: 2025-03-26T07:41:56.547Z
 startTime: 2025-02-24T14:30:04.398Z
 generator: Upptime <https://github.com/upptime/upptime>
