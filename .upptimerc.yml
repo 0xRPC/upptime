@@ -27,10 +27,6 @@ sites:
     icon: https://assets.coingecko.com/coins/images/12559/standard/Avalanche_Circle_RedWhite_Trans.png
     url: https://0xrpc.io/avax/health
 
-  - name: Berachain Mainnet
-    icon: https://assets.coingecko.com/coins/images/25235/standard/BERA.png
-    url: https://0xrpc.io/bera/health
-
   - name: Ethereum Classic Mainnet
     icon: https://assets.coingecko.com/coins/images/453/standard/ethereum-classic-logo.png
     url: https://0xrpc.io/etc/health
