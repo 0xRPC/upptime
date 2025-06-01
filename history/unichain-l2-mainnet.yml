@@ -1,7 +1,7 @@
 url: https://0xrpc.io/uni/health
-status: up
-code: 200
-responseTime: 102
-lastUpdated: 2025-05-31T23:13:21.167Z
+status: down
+code: 502
+responseTime: 122
+lastUpdated: 2025-06-01T10:42:16.582Z
 startTime: 2025-02-15T17:30:51.678Z
 generator: Upptime <https://github.com/upptime/upptime>
