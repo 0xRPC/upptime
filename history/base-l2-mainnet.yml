@@ -1,7 +1,7 @@
 url: https://0xrpc.io/base/health
 status: down
-code: 502
-responseTime: 107
-lastUpdated: 2025-06-01T07:17:06.182Z
+code: 404
+responseTime: 169
+lastUpdated: 2025-06-01T23:13:07.500Z
 startTime: 2025-01-23T12:41:11.054Z
 generator: Upptime <https://github.com/upptime/upptime>
