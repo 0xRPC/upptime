@@ -1,7 +1,7 @@
 url: https://0xrpc.io/gno/health
-status: up
-code: 200
-responseTime: 156
-lastUpdated: 2025-06-13T20:19:47.235Z
+status: down
+code: 429
+responseTime: 169
+lastUpdated: 2025-06-13T21:33:01.038Z
 startTime: 2025-01-23T12:41:09.528Z
 generator: Upptime <https://github.com/upptime/upptime>
