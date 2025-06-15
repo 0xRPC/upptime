@@ -1,7 +1,7 @@
 url: https://0xrpc.io/hoodi/health
-status: down
-code: 429
-responseTime: 168
-lastUpdated: 2025-06-15T11:53:49.592Z
+status: up
+code: 200
+responseTime: 153
+lastUpdated: 2025-06-15T12:36:13.199Z
 startTime: 2025-03-20T06:53:48.982Z
 generator: Upptime <https://github.com/upptime/upptime>
