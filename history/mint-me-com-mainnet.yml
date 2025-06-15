@@ -1,7 +1,7 @@
 url: https://0xrpc.io/mint/health
-status: up
-code: 200
-responseTime: 155
-lastUpdated: 2025-06-15T13:38:30.983Z
+status: down
+code: 429
+responseTime: 120
+lastUpdated: 2025-06-15T13:50:10.496Z
 startTime: 2025-03-01T08:41:40.639Z
 generator: Upptime <https://github.com/upptime/upptime>
