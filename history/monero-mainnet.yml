@@ -1,7 +1,7 @@
 url: https://xmr.0xrpc.io/get_height
-status: up
-code: 200
-responseTime: 592
-lastUpdated: 2025-11-25T23:13:34.565Z
+status: down
+code: 502
+responseTime: 619
+lastUpdated: 2025-11-26T16:34:51.884Z
 startTime: 2025-01-23T12:41:03.294Z
 generator: Upptime <https://github.com/upptime/upptime>
