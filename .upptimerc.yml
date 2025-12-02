@@ -43,6 +43,10 @@ sites:
     icon: https://www.unichain.org/favicon.ico
     url: https://0xrpc.io/uni/health
 
+  - name: Arbitrum Sepolia Testnet
+    icon: https://assets.coingecko.com/coins/images/16547/standard/arb.jpg
+    url: https://0xrpc.io/arb_sep/health
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
