@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.74%",
-    "time": 1468,
-    "timeDay": 1033,
-    "timeWeek": 737,
-    "timeMonth": 914,
+    "time": 1467,
+    "timeDay": 739,
+    "timeWeek": 613,
+    "timeMonth": 921,
     "timeYear": 1585,
     "dailyMinutesDown": {
       "2026-02-03": 59,
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.43%",
-    "time": 1304,
-    "timeDay": 1875,
-    "timeWeek": 879,
+    "time": 1303,
+    "timeDay": 729,
+    "timeWeek": 788,
     "timeMonth": 1117,
-    "timeYear": 1312,
+    "timeYear": 1310,
     "dailyMinutesDown": {
       "2026-02-03": 58,
       "2026-01-31": 310,
@@ -128,8 +128,7 @@
       "2025-04-14": 20,
       "2025-04-10": 26,
       "2025-03-30": 55,
-      "2025-03-27": 26,
-      "2025-03-25": 54
+      "2025-03-27": 26
     }
   },
   {
@@ -138,16 +137,16 @@
     "icon": "https://assets.coingecko.com/coins/images/279/standard/ethereum.png",
     "slug": "ethereum-sepolia-testnet",
     "status": "up",
-    "uptime": "97.03%",
+    "uptime": "97.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.80%",
-    "time": 316,
-    "timeDay": 172,
-    "timeWeek": 126,
+    "time": 315,
+    "timeDay": 104,
+    "timeWeek": 120,
     "timeMonth": 127,
-    "timeYear": 259,
+    "timeYear": 257,
     "dailyMinutesDown": {
       "2026-02-03": 58,
       "2026-01-31": 581,
@@ -186,8 +185,7 @@
       "2025-04-28": 123,
       "2025-04-26": 205,
       "2025-04-25": 279,
-      "2025-03-26": 28,
-      "2025-03-25": 56
+      "2025-03-26": 28
     }
   },
   {
@@ -196,16 +194,16 @@
     "icon": "https://assets.coingecko.com/coins/images/279/standard/ethereum.png",
     "slug": "ethereum-hoodi-testnet",
     "status": "up",
-    "uptime": "97.73%",
+    "uptime": "97.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.73%",
     "time": 178,
-    "timeDay": 171,
-    "timeWeek": 126,
+    "timeDay": 101,
+    "timeWeek": 120,
     "timeMonth": 127,
-    "timeYear": 167,
+    "timeYear": 165,
     "dailyMinutesDown": {
       "2026-02-03": 57,
       "2026-01-31": 58,
@@ -238,8 +236,7 @@
       "2025-04-28": 48,
       "2025-04-26": 226,
       "2025-04-25": 224,
-      "2025-03-26": 34,
-      "2025-03-25": 98
+      "2025-03-26": 34
     }
   },
   {
@@ -252,12 +249,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.09%",
-    "time": 223,
-    "timeDay": 172,
-    "timeWeek": 124,
+    "uptimeYear": "98.10%",
+    "time": 222,
+    "timeDay": 101,
+    "timeWeek": 118,
     "timeMonth": 126,
-    "timeYear": 173,
+    "timeYear": 168,
     "dailyMinutesDown": {
       "2026-02-03": 57,
       "2026-01-31": 125,
@@ -282,8 +279,7 @@
       "2025-06-15": 294,
       "2025-06-14": 104,
       "2025-06-13": 142,
-      "2025-06-01": 20,
-      "2025-03-25": 54
+      "2025-06-01": 20
     }
   },
   {
@@ -292,16 +288,16 @@
     "icon": "https://assets.coingecko.com/coins/images/453/standard/ethereum-classic-logo.png",
     "slug": "etc-mordor-testnet",
     "status": "up",
-    "uptime": "98.07%",
+    "uptime": "98.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "98.07%",
-    "time": 249,
-    "timeDay": 177,
-    "timeWeek": 126,
+    "uptimeYear": "98.09%",
+    "time": 248,
+    "timeDay": 102,
+    "timeWeek": 120,
     "timeMonth": 128,
-    "timeYear": 249,
+    "timeYear": 248,
     "dailyMinutesDown": {
       "2026-02-25": 32,
       "2026-02-14": 75,
@@ -322,16 +318,16 @@
     "icon": "https://assets.coingecko.com/coins/images/5127/standard/MINTME_logo.png",
     "slug": "mint-me-com-mainnet",
     "status": "up",
-    "uptime": "95.08%",
+    "uptime": "95.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "77.62%",
+    "uptimeMonth": "80.92%",
     "uptimeYear": "94.86%",
     "time": 282,
-    "timeDay": 172,
-    "timeWeek": 124,
-    "timeMonth": 127,
-    "timeYear": 233,
+    "timeDay": 101,
+    "timeWeek": 119,
+    "timeMonth": 126,
+    "timeYear": 228,
     "dailyMinutesDown": {
       "2026-03-03": 930,
       "2026-03-02": 1440,
@@ -374,8 +370,7 @@
       "2025-06-13": 39,
       "2025-06-01": 20,
       "2025-05-22": 283,
-      "2025-05-21": 222,
-      "2025-03-25": 97
+      "2025-05-21": 222
     }
   }
 ]
