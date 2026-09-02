@@ -136,17 +136,17 @@
     "url": "https://0xrpc.io/hoodi/health",
     "icon": "https://assets.coingecko.com/coins/images/279/standard/ethereum.png",
     "slug": "ethereum-hoodi-testnet",
-    "status": "up",
+    "status": "down",
     "uptime": "98.37%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.52%",
-    "time": 264,
-    "timeDay": 547,
-    "timeWeek": 670,
-    "timeMonth": 686,
-    "timeYear": 310,
+    "time": 265,
+    "timeDay": 597,
+    "timeWeek": 667,
+    "timeMonth": 684,
+    "timeYear": 311,
     "dailyMinutesDown": {
       "2025-11-15": 76,
       "2025-12-19": 75,
@@ -161,7 +161,8 @@
       "2026-02-03": 57,
       "2026-05-13": 167,
       "2026-05-14": 90,
-      "2026-07-27": 177
+      "2026-07-27": 177,
+      "2026-09-02": 0
     }
   },
   {
